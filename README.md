@@ -1,5 +1,7 @@
 # Retail Sales Analysis SQL Project
 
+SQL
+
 ## Project Overview
 
 **Project Title**: Retail Sales Analysis   
